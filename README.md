@@ -1,6 +1,6 @@
 # UX Writing Skills
 
-AI writes interface copy that looks more or less fine but needs the same fixes every time. Buttons that say "OK" or "Submit". Errors that blame the user and never say how to fix the problem. Three "options" that are the same sentence reworded three times.
+Writing interface copy with AI meant adding "use UX writing best practices" to every single prompt. Even then, the result looked more or less fine but needed the same fixes every time, and three "options" turned out to be the same sentence reworded three times.
 
 This skill gives the agent a process instead of a vague goal. It asks only about the things that change the copy, picks three different approaches, and explains in one line why each one works.
 
